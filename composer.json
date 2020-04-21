@@ -1,0 +1,19 @@
+{
+  "name": "sinri/ark-ftp",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sinri Edogawa",
+      "email": "e.joshua.s.e@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "sinri\\ark\\ftp\\": "src/"
+    }
+  },
+  "description": "Ark FTP Component"
+}
